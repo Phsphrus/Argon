@@ -25,3 +25,6 @@ colorama (pip install colorama)
 time (pip install time)
 
 json (pip install json)
+
+# Exe file update
+This update adds more of a broad reach for people that dont have python
