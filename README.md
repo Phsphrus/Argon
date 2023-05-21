@@ -46,14 +46,3 @@ pip3 install -r requirements.txt
 - This update adds more of a broad reach for people that don't have Python
 
 ## Contributing and reporting issues ✅
-
-If you notice an error in the code or if something isn't working right, feel free to open a new issue regarding your problem
-
-**Contributing**
-
-Feel free to contribute by forking this repository.
-
-**Credits go to**
-
-- @Phsphrus | Main Author
-- @cop6567 | Assistance
